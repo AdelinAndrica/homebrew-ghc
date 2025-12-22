@@ -5,7 +5,7 @@ class Ghc < Formula
 
   on_macos do
     url "https://github.com/AdelinAndrica/ghc/releases/download/v0.0.4/ghc-macos-x86_64.tar.gz"
-    sha256 "aa7f71b5ea4ce956d5596b0b5b636ba7f31a09a156331e642c9befd715935bb2"
+    sha256 "d629cca73cf26a7412752287bd6c40564fa9a7c913872e76969bdb812c1269dd"
   end
 
   on_linux do
