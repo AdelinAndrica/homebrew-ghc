@@ -1,15 +1,15 @@
 class Ghc < Formula
   desc "Interactive GitHub repository picker and cloner"
   homepage "https://github.com/AdelinAndrica/ghc"
-  version "0.0.7"
+  version "0.0.8"
 
   on_macos do
-    url "https://github.com/AdelinAndrica/ghc/releases/download/v0.0.7/ghc-macos-x86_64.tar.gz"
-    sha256 "10624a6f2f2308395bb828cecc366e3074a73d56234673a65a8c965e4bc3d2b7"
+    url "https://github.com/AdelinAndrica/ghc/releases/download/v0.0.8/ghc-macos-x86_64.tar.gz"
+    sha256 "26a68ba27c1fc52ddb002851002e9d0957de25025954ad2fb874cde0bae8fca3"
   end
 
   on_linux do
-    url "https://github.com/AdelinAndrica/ghc/releases/download/v0.0.7/ghc-linux-x86_64.tar.gz"
+    url "https://github.com/AdelinAndrica/ghc/releases/download/v0.0.8/ghc-linux-x86_64.tar.gz"
     sha256 "REPLACE_ME"
   end
 
